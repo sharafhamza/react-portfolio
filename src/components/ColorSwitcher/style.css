@@ -1,0 +1,10 @@
+.shadow {
+  box-shadow: -5px 4px 11px #dddddd87;
+}
+.IscolorClosed {
+  transform: translateX(100%);
+  transition: 0.3s all;
+}
+.IscolorOpen {
+  transform: translateX(0);
+}
